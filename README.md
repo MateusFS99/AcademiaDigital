@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/RecipeBook-ASP.NET)](https://github.com/MateusFS99/AcademiaDigital/commits/main)
+[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/AcademiaDigital)](https://github.com/MateusFS99/AcademiaDigital/commits/main)
 
 <h1 align="center">Academia Digital</h1>
 
